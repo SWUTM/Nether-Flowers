@@ -1,0 +1,269 @@
+{
+  "mod_elements": [
+    {
+      "name": "CrimsonOrchid",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_orchid"
+    },
+    {
+      "name": "CrimsonOxeyeDaisy",
+      "type": "plant",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_oxeye_daisy"
+    },
+    {
+      "name": "CrimsonTulip",
+      "type": "plant",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_tulip"
+    },
+    {
+      "name": "NetherrackTulip",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherrack_tulip"
+    },
+    {
+      "name": "Peace",
+      "type": "plant",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peace"
+    },
+    {
+      "name": "SoulDandelion",
+      "type": "plant",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_dandelion"
+    },
+    {
+      "name": "SoulLilyOfTheValley",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_lily_of_the_valley"
+    },
+    {
+      "name": "SoulTulip",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_tulip"
+    },
+    {
+      "name": "WarpedAllium",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_allium"
+    },
+    {
+      "name": "WarpedCornflower",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_cornflower"
+    },
+    {
+      "name": "WarpedCrimsonAzureBluet",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_crimson_azure_bluet"
+    },
+    {
+      "name": "WarpedPoppy",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_poppy"
+    },
+    {
+      "name": "WarpedTulip",
+      "type": "plant",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_tulip"
+    },
+    {
+      "name": "PeacePlantDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peace_plant_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "COCraft",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "co_craft"
+    },
+    {
+      "name": "CODCraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cod_craft"
+    },
+    {
+      "name": "CTCraft",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ct_craft"
+    },
+    {
+      "name": "NTCraft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nt_craft"
+    },
+    {
+      "name": "SDCraft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sd_craft"
+    },
+    {
+      "name": "SLCraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sl_craft"
+    },
+    {
+      "name": "STCraft",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "st_craft"
+    },
+    {
+      "name": "WACraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wa_craft"
+    },
+    {
+      "name": "WCCraft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wc_craft"
+    },
+    {
+      "name": "WCACraft",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wca_craft"
+    },
+    {
+      "name": "WPCraft",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wp_craft"
+    },
+    {
+      "name": "WTCraft",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wt_craft"
+    },
+    {
+      "name": "PeaceCraft",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peace_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.nether_flowers.soul_lily_of_the_valley": "Soul Lily Of The Valley",
+      "block.nether_flowers.warped_tulip": "Warped Tulip",
+      "block.nether_flowers.crimson_oxeye_daisy": "Crimson Oxeye Daisy",
+      "block.nether_flowers.warped_poppy": "Warped Poppy",
+      "block.nether_flowers.soul_dandelion": "Soul Dandelion",
+      "block.nether_flowers.warped_cornflower": "Warped Cornflower",
+      "block.nether_flowers.peace": "Crimson Tulip",
+      "block.nether_flowers.netherrack_tulip": "Crimson Tulip",
+      "block.nether_flowers.warped_crimson_azure_bluet": "Warped Crimson Azure Bluet",
+      "block.nether_flowers.crimson_orchid": "Crimson Orchid",
+      "block.nether_flowers.warped_allium": "Warped Allium",
+      "block.nether_flowers.soul_tulip": "Soul Tulip",
+      "block.nether_flowers.crimson_tulip": "Crimson Tulip"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nether_flowers",
+    "modName": "Nether Flowers",
+    "version": "1.0.0",
+    "author": "kazmur, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.netherflowers",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
