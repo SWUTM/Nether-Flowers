@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nether_flowers:blocks/soul_dandelion",
+    "particle": "nether_flowers:blocks/soul_dandelion"
+  }
+}

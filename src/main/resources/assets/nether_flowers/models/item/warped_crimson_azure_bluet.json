@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nether_flowers:items/azure_bluet"
+  }
+}
